@@ -23,22 +23,8 @@ https://github.com/kemicky/ios-native-projects-for-beginners-MJ/assets/57273086/
 ![MainScreen- App Home Screen-Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-31 at 02 34 39](https://github.com/kemicky/ios-native-projects-for-beginners-MJ/assets/57273086/e1eceaee-f87d-4ea1-b5ab-668f07d8db94)
 ![ListView-Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-31 at 02 34 59](https://github.com/kemicky/ios-native-projects-for-beginners-MJ/assets/57273086/9fd40cf1-ac6d-4488-a9bb-b6160e02b030)
 ![Onboarding Screen-Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-31 at 02 34 20](https://github.com/kemicky/ios-native-projects-for-beginners-MJ/assets/57273086/9aee4765-65a4-4754-8567-3e3e3e540a3f)
-![User Profile Page-for Hiking-Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-31 at 02 37 02](https://github.com/kemicky/ios-native-projects-for-beginners-MJ/assets/57273086/cf1efc8f-9bff-4f27-aa89-ba0fd48916d1)
-https://github.com/kemicky/ios-native-projects-for-beginners-MJ/assets/57273086/cd97df2b-6256-4311-9364-436978467ea4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![User Profile Page-for Hiking-Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-31 at 02 37 02](https://github.com/kemicky/ios-native-projects-for-beginners-MJ/assets/57273086/cf1efc8f-9bff-4f27-aa89
+![MJ Landmark Project_gif format_Simulator Screen Recording - iPhone 12 Pro Max - 2021-05-31 at 01 02 52](https://github.com/kemicky/ios-native-projects-for-beginners-MJ/assets/57273086/02b6793b-9e4f-4558-9ff3-ab82c690f064)
 
 
 
